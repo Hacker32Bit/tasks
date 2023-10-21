@@ -1,0 +1,41 @@
+.container {
+    display: inline-block;
+    padding: 150px 200px;
+}
+
+.text {
+    display: block;
+    float: left;
+    width: 540px;
+}
+
+.text h1 {
+    font-size: 50px;
+}
+
+.text p {
+    font-size: 15px;
+    line-height: 40px;
+}
+
+.image {
+    float: right;
+    display: block;
+    background-color: aqua;
+}
+
+button {
+    background-color: #fad77b;
+    border: 0px;
+    padding: 20px 50px;
+    margin-right: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #504942;
+}
+
+button:hover {
+    cursor: pointer;
+    color: #000;
+    background-color: #ffca44;
+}

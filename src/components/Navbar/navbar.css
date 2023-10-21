@@ -1,0 +1,31 @@
+.nav {
+  color: #504942;
+  list-style-type: none;
+  margin: 0;
+  padding: 10px 100px;
+  overflow: hidden;
+  display: block;
+}
+
+.nav h1 {
+    float: left;
+    margin: 5px 0;
+}
+
+.nav ul {
+  float: right;
+  align-items: center;
+}
+
+.nav ul li {
+  display: block;
+  padding: 8px 30px;
+  text-decoration: none;
+  display: inline;
+}
+
+.nav ul li:hover {
+    cursor: pointer;
+    color: #000;
+    
+}
