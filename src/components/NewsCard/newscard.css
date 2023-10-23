@@ -1,0 +1,34 @@
+.card {
+  background-color: #fafafa;
+  display: inline-block;
+  width: 398px;
+  margin: 20px;
+  border: 0px;
+  border-radius: 10px;
+}
+
+.card .header {
+  background-color: #eceff1;
+  padding: 20px;
+  border: 0px;
+  border-radius: 10px 10px 0 0;
+}
+
+.card .img /* Temporary design(imitation image) */ {
+  background-color: aqua;
+  width: 398px;
+  height: 150px;
+  display: block;
+  margin: -20px 0 0 -20px;
+  border: 0px;
+  border-radius: 10px 10px 0 0;
+}
+
+.card .title {
+    margin: 0px;
+    margin-top: 18px;
+}
+
+.card .content {
+    padding: 20px;
+}

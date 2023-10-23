@@ -1,4 +1,10 @@
 body {
     background-color: #fdefe6;
     color: #504942;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    padding: 50px 200px;
 }

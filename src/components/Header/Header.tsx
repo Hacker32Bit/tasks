@@ -13,8 +13,8 @@ export default function Header() {
           manor. Him had wound use found hoped. Of distrusts immediate enjoyment
           curiosity do. Marianne saw thoughts the humoured.
         </p>
-        <button>Donwload for IOS</button>
-        <button>Donwload for Android</button>
+        <button className="btn">Donwload for IOS</button>
+        <button className="btn">Donwload for Android</button>
         {/* <Button>Donwload for IOS</Button>
         <Button>Donwload for Android</Button> */}
       </div>

@@ -1,0 +1,39 @@
+.footer {
+  background-color: #ffca44;
+  margin: 0;
+  padding: 0;
+}
+
+.footer .container {
+  display: block;
+  padding: 50px 200px;
+  height: 100px;
+}
+
+.footer .logo {
+  float: left;
+}
+
+.footer .links {
+  float: right;
+}
+
+.footer .copy {
+  text-align: center;
+}
+
+.footer ul {
+  display: inline-block;
+  align-items: center;
+}
+
+.footer ul li {
+  padding: 8px 30px;
+  text-decoration: none;
+  display: block;
+}
+
+.footer ul li:hover {
+  cursor: pointer;
+  color: #000;
+}
